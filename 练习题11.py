@@ -9,7 +9,7 @@ Created on Tue Jul 24 14:04:40 2018
 #2.获取学校招生人数
 #3.在Echarts展示
 
-f=open('E:\\大数据实训\\课程作业\\切片母本.txt',encoding='gbk').readlines()
+f=open('E:\\大数据实训\\课程作业\\母本.txt',encoding='gbk').readlines()
 schoolls=[]
 data=[]
 for line in f:
